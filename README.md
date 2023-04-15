@@ -53,7 +53,7 @@ The dataset contains weather information (Temperature, Humidity, Windspeed, Visi
    
 7.Model explainability
 
-# 8.Conclusion :
+# Conclusion :
 
    ## 1.EDA insights:
        Most number of bikes are rented in the Summer season and the lowest in the winter season.
